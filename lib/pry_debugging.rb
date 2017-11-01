@@ -1,4 +1,5 @@
 def plus_two(num)
-	[3]. map do |i| 2 + i
+	num + 2 
+	num
 	binding.pry
 end
